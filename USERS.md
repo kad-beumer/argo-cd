@@ -169,6 +169,7 @@ Currently, the following organizations are **officially** using Argo CD:
 1. [Jellysmack](https://www.jellysmack.com)
 1. [Joblift](https://joblift.com/)
 1. [JovianX](https://www.jovianx.com/)
+1. [Kadaster](https://www.kadaster.nl) 
 1. [Kaltura](https://corp.kaltura.com/)
 1. [Kandji](https://www.kandji.io/)
 1. [Karrot](https://www.daangn.com/)
